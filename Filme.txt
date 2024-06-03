@@ -1,0 +1,1 @@
+(Nome = It, AnoDeLancamento = 2017, Duração = 13min )
